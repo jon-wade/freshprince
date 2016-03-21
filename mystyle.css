@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    font-size: 300%;
+    border-top: 20px;
+    border-top-color: black;
+    background-image: url("https://images.unsplash.com/photo-1452723312111-3a7d0db0e024?crop=entropy&dpr=2&fit=crop&fm=jpg&h=775&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1450");
+}
+
+body {
+    background-color: darkgray;
+    font-family: "Helvetica Neue";
+    text-align: center;
+}
+
+
